@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3a5deba5b",
+  "policyUUID": "a5deba5b",
+  "bucketName": "hirebeatinterntry69311400f5004906bda489066188bf",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
